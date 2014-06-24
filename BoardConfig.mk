@@ -33,7 +33,6 @@ TARGET_KERNEL_CONFIG := aosp_i9300_defconfig
 
 # Toolchain
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := Linaro-4.9
-TARGET_KERNEL_CUSTOM_TOOLCHAIN_PREFIX := arm-cortex_a15-linux-gnueabihf-
 TARGET_GCC_VERSION_AND := 4.8
 
 # Recovery
